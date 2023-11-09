@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="portfolio">
       <header className="header">
-        <h1>Uday Sai Manoj</h1>
+        <h1>POTLURU YUVA SANKAR</h1>
       </header>
 
       <div className="content">
@@ -44,7 +44,7 @@ function App() {
 
         <section className="section">
           <h2>Contact</h2>
-          <a href="mailto:udaysaimanoj14196@gmail.com">Email me</a>
+          <a href="mailto:yuvasankarpotluru@gmail.com">Email me</a>
         </section>
       </div>
     </div>
